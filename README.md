@@ -1,20 +1,25 @@
 Math Operations JavaScript Program
 
-This repository contains a simple web application that performs basic math operations (addition, subtraction, multiplication, and division) using JavaScript. Users can input two numbers and select an operation to see the result.
+    This repository contains a simple web application that performs basic math operations (addition, subtraction, multiplication, and division) using JavaScript. Users can input two numbers and select an operation to see the result.
 
 Features:
 
-Addition: Calculates the sum of two numbers.
-Subtraction: Computes the difference between two numbers.
-Multiplication: Multiplies two numbers.
-Division: Divides the first number by the second number and displays both the quotient and remainder.
+    Addition: Calculates the sum of two numbers.
+
+    Subtraction: Computes the difference between two numbers.
+
+    Multiplication: Multiplies two numbers.
+
+    Division: Divides the first number by the second number and displays both the quotient and remainder.
 
 
 Technologies Used:
 
-HTML
-CSS
-JavaScript
+    HTML
+
+    CSS
+
+    JavaScript
 
 Screenshots :
 
